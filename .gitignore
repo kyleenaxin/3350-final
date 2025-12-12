@@ -11,16 +11,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/
-datasets/
-raw_data/
-processed_data/
-*.csv
-*.tsv
-*.json
-*.parquet
-
 outputs/
 figures/
 plots/
